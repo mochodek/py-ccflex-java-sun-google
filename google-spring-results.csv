@@ -1,0 +1,309 @@
+rule;n;n_pos;n_neg;subset;acc;acc_std;rec;rec_std;prec;prec_std;fscore;fscore_std
+Any;746;450;296;0.05;0.9961126005361931;0.0004021447721179628;0.9955555555555554;1.1102230246251565e-16;0.9979955456570156;0.000668151447661458;0.9967739458096225;0.0003329608993908328
+'package' should be separated from previous statement.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;746;2;744;0.05;0.9946380697050939;0.0013404825737265424;0.0;0.0;0.0;0.0;0.0;0.0
+Line contains a tab character.;746;448;298;0.05;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;746;243;503;0.05;0.9761394101876675;0.003217158176943702;0.9716049382716049;0.006493717628831077;0.955869423348159;0.004241815898813483;0.9636674242191596;0.004946957065311428
+<p> tag should be placed immediately before the first word, with no space after.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;746;11;735;0.05;0.9986595174262736;0.0008477956193480915;0.9727272727272727;0.0416597790450531;0.9401515151515151;0.0392845217044369;0.9553171466214945;0.02877971733137666
+'}' should be on the same line as the next part of a multi-block statement;746;7;739;0.05;0.9969168900804289;0.0006142862861871104;0.9571428571428571;0.06546536707079774;0.7694444444444444;0.012729376930432895;0.8525;0.03436931771216888
+Wrong lexicographical order for import;746;1;745;0.05;0.9982573726541556;0.0006142862861871103;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;746;26;720;0.05;0.9659517426273458;0.0019145920719954035;0.45;0.045670546488607376;0.5128528138528139;0.03222777099940767;0.47870824037292997;0.03729706308379004
+Missing a Javadoc comment.;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;746;3;743;0.05;0.9965147453083111;0.0006566996629445523;0.6;0.13333333333333333;0.6;0.15275252316519466;0.5757142857142857;0.07843277809865022
+Overload methods should not be split;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Top-level class BookmarkStack has to reside in its own source file.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;745;0;745;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Redundant <p> tag.;746;0;746;0.05;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Any;1491;899;592;0.1;0.9959758551307848;0.0005195148687065364;0.9957730812013349;0.0006674082313681828;0.9975486210593851;0.0004446915695189223;0.996659924284554;0.0004313708069972939
+'package' should be separated from previous statement.;1492;1;1491;0.1;0.9991286863270776;0.0003071431430935806;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;1491;4;1487;0.1;0.9967136150234742;0.0002012072434607437;0.5;0.0;0.41000000000000003;0.029999999999999992;0.45000000000000007;0.01666666666666666
+Line contains a tab character.;1491;895;596;0.1;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;1491;486;1005;0.1;0.9805499664654593;0.001587144140335237;0.9775720164609053;0.002674897119341577;0.9633042649993016;0.0027402287043111523;0.9703841459582003;0.0024154974330236893
+<p> tag should be placed immediately before the first word, with no space after.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;1491;21;1470;0.1;0.9998658618376929;0.00026827632461436937;1.0;0.0;0.990909090909091;0.018181818181818164;0.9953488372093023;0.009302325581395321
+'}' should be on the same line as the next part of a multi-block statement;1491;13;1478;0.1;0.9918846411804159;0.0005571176299743709;0.5384615384615383;0.034401045807689073;0.5353479853479853;0.03306659771746522;0.5363532763532763;0.029024916181943323
+Wrong lexicographical order for import;1491;1;1490;0.1;0.9993293091884642;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;1492;52;1440;0.1;0.9810991957104557;0.0015517207644490938;0.8038461538461539;0.03418536314352148;0.6987597933055808;0.01583820922654081;0.7475159613608613;0.023211033393807947
+Missing a Javadoc comment.;1491;1;1490;0.1;0.9993293091884642;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;1492;1;1491;0.1;0.9986595174262736;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;1492;1;1491;0.1;0.9993297587131368;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;1491;5;1486;0.1;0.999664654594232;0.0003353454057679617;0.96;0.07999999999999999;0.95;0.07637626158259732;0.9505050505050505;0.049987244572358064
+Overload methods should not be split;1491;1;1490;0.1;0.9983903420523139;0.0005365526492287192;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;1491;1;1490;0.1;0.9988598256203891;0.00030734914117742213;0.0;0.0;0.0;0.0;0.0;0.0
+Top-level class BookmarkStack has to reside in its own source file.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;1492;1;1491;0.1;0.998994638069705;0.0003351206434316633;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;1491;1;1490;0.1;0.9991281019450033;0.00030734914117742213;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;1492;1;1491;0.1;0.9989276139410188;0.00032834983147230336;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';1491;0;1491;0.1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;1491;1;1490;0.1;0.9991951710261568;0.00026827632461432497;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;1491;1;1490;0.1;0.9993293091884642;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Redundant <p> tag.;1492;1;1491;0.1;0.9993297587131368;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Any;2981;1798;1183;0.2;0.997651794699765;0.0003674757178833561;0.9983314794215795;0.0;0.9977769123788471;0.0006073965673085382;0.9980540263875121;0.0003039092362475416
+'package' should be separated from previous statement.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;2982;8;2974;0.2;0.998558014755198;0.00015367457058873652;0.75;0.0;0.725;0.03818813079129868;0.736764705882353;0.020217245713040448
+Line contains a tab character.;2981;1790;1191;0.2;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;2981;972;2009;0.2;0.9884267024488427;0.0007831343528969465;0.9865226337448559;0.0019219693099042539;0.9781728953268104;0.0016174819760353296;0.9823282807979371;0.001199464436447342
+<p> tag should be placed immediately before the first word, with no space after.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;2981;41;2940;0.2;0.9985575310298558;0.00033713101714598245;0.9463414634146343;0.01825198725255578;0.9487601626016261;0.0127279487822925;0.9474515949978775;0.012427551927738768
+'}' should be on the same line as the next part of a multi-block statement;2981;25;2956;0.2;0.9963770546796378;0.00041898678285130905;0.72;0.02529822128134702;0.8270666290231509;0.03832600687397192;0.7693614451639428;0.02511371397056421
+Wrong lexicographical order for import;2981;2;2979;0.2;0.999060717879906;0.0002924454172117522;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;2982;103;2879;0.2;0.9842387659289068;0.000734704973179297;0.7990291262135922;0.015684946040197576;0.7580020089324668;0.0124314661744004;0.7778609840009122;0.010545271860896828
+Missing a Javadoc comment.;2980;0;2980;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;2981;10;2971;0.2;0.9967125125796713;0.0005963230068645148;0.51;0.08306623862918074;0.5185137085137084;0.08063060416843629;0.5101214042235714;0.07112337924766562
+Overload methods should not be split;2980;0;2980;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;2981;1;2980;0.2;0.9996645420999665;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Top-level class BookmarkStack has to reside in its own source file.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;2981;1;2980;0.2;0.9992619926199262;0.00013418316001341247;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;2981;1;2980;0.2;0.999530358939953;0.00016434013705354385;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;2981;1;2980;0.2;0.9991613552499162;0.00016772895001676558;0.0;0.0;0.0;0.0;0.0;0.0
+Redundant <p> tag.;2981;0;2981;0.2;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Any;4968;2997;1971;0.3;0.9976650563607086;0.00016103059581320522;0.9983316649983317;0.0;0.9977990438588863;0.00026614407357961306;0.9980652656158568;0.00013315803899926844
+'package' should be separated from previous statement.;4968;1;4967;0.3;0.999597423510467;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;4968;12;4956;0.3;0.9992753623188406;9.86106981796775e-05;0.8666666666666668;0.04082482904638627;0.8384615384615385;0.006280742930213255;0.852;0.022861904265976257
+Line contains a tab character.;4968;2983;1985;0.3;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;4968;1619;3349;0.3;0.9893518518518519;0.0006135165319697359;0.9869672637430513;0.0011538938661068367;0.9804897381537714;0.0015385159687902712;0.9837168378491763;0.0009329589465879053
+<p> tag should be placed immediately before the first word, with no space after.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;4968;68;4900;0.3;0.998792270531401;0.00027005651902171495;0.9588235294117646;0.014408763192842233;0.9535912016696425;0.017006889533570168;0.956035662570919;0.009655221138036896
+'}' should be on the same line as the next part of a multi-block statement;4968;42;4926;0.3;0.9963164251207729;0.0003124833876058795;0.8285714285714285;0.014285714285714278;0.759246209471808;0.027847988378086542;0.7920187216879683;0.014575086101184494
+Wrong lexicographical order for import;4968;4;4964;0.3;0.9983896940418682;2.220446049250313e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;4968;171;4797;0.3;0.9862922705314009;0.0005581893970958981;0.8345029239766081;0.015260805088537893;0.781965154810061;0.007470349080388134;0.8073060309945751;0.008848424208094651
+Missing a Javadoc comment.;4968;1;4967;0.3;0.9997987117552334;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;4968;1;4967;0.3;0.9997181964573268;0.00018448372362946298;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;4968;1;4967;0.3;0.9997987117552334;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;4968;17;4951;0.3;0.9982890499194846;0.00018557859213552593;0.7529411764705882;0.023529411764705844;0.7499183006535948;0.03643864121892912;0.7509752992105934;0.024412284507328488
+Overload methods should not be split;4968;1;4967;0.3;0.9995169082125605;9.861069817967749e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;4968;1;4967;0.3;0.9996578099838969;9.224186181473149e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Top-level class BookmarkStack has to reside in its own source file.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;4968;1;4967;0.3;0.9997987117552334;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;4968;1;4967;0.3;0.9997987117552334;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;4968;1;4967;0.3;0.9992753623188404;0.00013351951651994424;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';4968;0;4968;0.3;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;4968;2;4966;0.3;0.999416264090177;6.038647342995196e-05;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;4968;2;4966;0.3;0.9999597423510467;8.051529790660262e-05;1.0;0.0;0.9333333333333332;0.13333333333333336;0.96;0.07999999999999999
+Redundant <p> tag.;4968;1;4967;0.3;0.9997987117552334;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Any;7451;4495;2956;0.4;0.9980405314722857;0.00010736813850491799;0.9984427141268076;1.1102230246251565e-16;0.9983094897519937;0.00017766133262439598;0.9983760895904542;8.883992246524949e-05
+'package' should be separated from previous statement.;7452;1;7451;0.4;0.9997316156736445;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;7451;18;7433;0.4;0.9992752650650919;6.574928849235117e-05;0.8222222222222222;0.022222222222222233;0.871078431372549;0.019086198366599767;0.8456582633053221;0.01440331667471417
+Line contains a tab character.;7451;4474;2977;0.4;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;7452;2429;5023;0.4;0.9904589371980675;0.00033115841865950405;0.9864965006175381;0.0006587072869493685;0.984268316870945;0.0007247194195252502;0.9853809225916118;0.0005065890830053826
+<p> tag should be placed immediately before the first word, with no space after.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;7451;101;7350;0.4;0.9989128975976378;0.00011148334267775072;0.9415841584158414;0.008224380062295087;0.9774123121601029;0.0039390257869613395;0.9591382312784248;0.004324304599747044
+'}' should be on the same line as the next part of a multi-block statement;7452;63;7389;0.4;0.9976516371443906;0.00016158876246366545;0.8492063492063492;0.014634197551258553;0.8700950838736425;0.012494358593185768;0.8594176549144807;0.009757854007081552
+Wrong lexicographical order for import;7451;5;7446;0.4;0.9986176352167494;0.00019951776603566615;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;7452;256;7196;0.4;0.9901234567901234;0.00027631857597925513;0.85390625;0.008593749999999999;0.8579496275191036;0.003864465577934119;0.8558949404385119;0.004537585200069141
+Missing a Javadoc comment.;7451;1;7450;0.4;0.9997315796537377;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;7452;1;7451;0.4;0.9997047772410091;0.00013148093090623665;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;7452;1;7451;0.4;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;7451;25;7426;0.4;0.998818950476446;8.052610387865311e-05;0.792;0.016000000000000014;0.8469979296066252;0.02431632728205887;0.8182379473528542;0.011159311545854306
+Overload methods should not be split;7451;1;7450;0.4;0.9997181586364245;7.227439011051935e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;7452;2;7450;0.4;0.9998658078368224;1.1102230246251565e-16;1.0;0.0;0.6666666666666667;1.1102230246251565e-16;0.8;0.0
+Top-level class BookmarkStack has to reside in its own source file.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;7452;1;7451;0.4;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;7452;2;7450;0.4;0.9994632313472891;2.220446049250313e-16;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;7452;1;7451;0.4;0.9998389694041869;5.3676865271068404e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';7451;0;7451;0.4;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;7451;2;7449;0.4;0.9996778955844853;6.574928849235117e-05;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;7451;2;7449;0.4;0.9999463159307475;0.00010736813850491523;1.0;0.0;0.9;0.2;0.9333333333333332;0.13333333333333336
+Redundant <p> tag.;7452;1;7451;0.4;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Any;7451;4495;2956;0.5;0.9980673735069118;8.902495746494189e-05;0.9984427141268076;1.1102230246251565e-16;0.998353894586956;0.00014732779376176654;0.9983982969461955;7.366687345216716e-05
+'package' should be separated from previous statement.;7452;1;7451;0.5;0.9997316156736445;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;7451;18;7433;0.5;0.9992618440477787;6.710508656554426e-05;0.8277777777777777;0.016666666666666673;0.8620098039215687;0.023510255682588133;0.8442577030812325;0.013180157261645434
+Line contains a tab character.;7451;4474;2977;0.5;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;7452;2429;5023;0.5;0.9904455179817498;0.0002802014629337251;0.9867435158501442;0.0007767790145785603;0.9839896976074674;0.0007819414032491974;0.9853642530333723;0.00042902300530165365
+<p> tag should be placed immediately before the first word, with no space after.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;7451;101;7350;0.5;0.9988592135283854;0.0001616104493194506;0.9396039603960397;0.008224380062295084;0.9753309313416088;0.00504806812682465;0.957123771964473;0.0061491392758612875
+'}' should be on the same line as the next part of a multi-block statement;7452;63;7389;0.5;0.9977858293075684;0.00013750604892592114;0.8603174603174605;0.015552315827194773;0.875700414662604;0.008752690810422051;0.8678448054339392;0.008832155966917379
+Wrong lexicographical order for import;7451;5;7446;0.5;0.998563951147497;0.00013487955470568278;0.0;0.0;0.0;0.0;0.0;0.0
+Line is longer than 100 characters;7452;256;7196;0.5;0.9900697799248525;0.0002814838561916683;0.851171875;0.010690572018284382;0.8586278864560464;0.005967890694972706;0.8548215377643948;0.004715433114162323
+Missing a Javadoc comment.;7451;1;7450;0.5;0.9997315796537377;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;7452;1;7451;0.5;0.9997450348899625;0.0001524129990821336;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;7452;1;7451;0.5;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;7451;25;7426;0.5;0.9987921084418201;0.00010395875308566399;0.788;0.018330302779823376;0.8424505928853755;0.022894123176541218;0.8140823563467942;0.015366171901863592
+Overload methods should not be split;7451;1;7450;0.5;0.9996778955844853;8.902495746491511e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;7452;2;7450;0.5;0.9999597423510467;6.149457454315432e-05;1.0;0.0;0.9;0.1527525231651947;0.9400000000000001;0.09165151389911677
+Top-level class BookmarkStack has to reside in its own source file.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;7452;1;7451;0.5;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;7452;2;7450;0.5;0.9994632313472891;2.220446049250313e-16;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;7452;1;7451;0.5;0.9997987117552334;6.709608158883551e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';7451;0;7451;0.5;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;7451;2;7449;0.5;0.9996913166017982;6.150282774063414e-05;0.0;0.0;0.0;0.0;0.0;0.0
+'METHOD_DEF' should be separated from previous statement.;7451;2;7449;0.5;0.9999463159307475;0.00010736813850491523;1.0;0.0;0.9;0.2;0.9333333333333332;0.13333333333333336
+Redundant <p> tag.;7452;1;7451;0.5;0.9998658078368224;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Any;14902;8990;5912;1;0.997792242651993;9.225424161096053e-05;0.9984538375973304;0.00010493861103512794;0.9978877622843152;0.000140278030431268;0.998170710152334;7.638798841316751e-05
+'package' should be separated from previous statement.;14902;1;14901;1;0.9999194738961215;2.68420346261955e-05;0.0;0.0;0.0;0.0;0.0;0.0
+'{' should be on the previous line;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+First sentence of Javadoc is incomplete (period is missing) or not present.;14902;36;14866;1;0.999516843376728;7.825730633264077e-05;0.9444444444444443;0.03513641844631534;0.8673914929049718;0.007856007508788851;0.9039631912739337;0.01711571783241367
+Line contains a tab character.;14902;8948;5954;1;1.0;0.0;1.0;0.0;1.0;0.0;1.0;0.0
+Incorrect indentation level;14902;4857;10045;1;0.9930076499798686;0.0002763556607431722;0.990982087708462;0.0005808826839475202;0.9876073063198498;0.000725173026755409;0.98929156213461;0.0004219839820018578
+<p> tag should be placed immediately before the first word, with no space after.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+<p> tag should be preceded with an empty line.;14902;202;14700;1;0.9989665816668903;0.00013149857698471933;0.9732673267326731;0.006339726967755302;0.9516514388873935;0.0071470367808141875;0.9623139027650984;0.004763488346256673
+'}' should be on the same line as the next part of a multi-block statement;14902;125;14777;1;0.9984230304657092;0.00015665840195851801;0.9463999999999999;0.008799999999999971;0.8758413295564897;0.013565510370036954;0.9096873017803825;0.00863913468116048
+Wrong lexicographical order for import;14902;10;14892;1;0.9987585558985372;3.3552543282744374e-05;0.1;0.0;0.09545454545454546;0.004545454545454547;0.09761904761904763;0.0023809523809523864
+Line is longer than 100 characters;14902;511;14391;1;0.9947121191786337;0.00016105220775735246;0.9291585127201566;0.004445329429197858;0.9176739174796662;0.0025846095678867436;0.923372679108277;0.0024364703834930195
+Missing a Javadoc comment.;14902;2;14900;1;0.9997181586364245;5.021684856761766e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Abbreviation in name must contain no more than '2' consecutive capital letters;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Member name must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$';14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clause should have a non-empty description.;14902;1;14901;1;0.9999127633874648;3.075141387029164e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not followed by whitespace;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'(' is followed by whitespace.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+')' is preceded with whitespace.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+"switch without ""default"" clause.";14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Whitespace around a symbol is not preceded by whitespace;14902;1;14901;1;0.9999328949134345;1.1102230246251565e-16;0.0;0.0;0.0;0.0;0.0;0.0
+Symbol should be on a new line;14902;50;14852;1;0.9985706616561536;0.0001440807311339664;0.8240000000000001;0.024979991993593575;0.767779600235468;0.02480894638554917;0.7946293336829164;0.020146835593681005
+Overload methods should not be split;14902;2;14900;1;0.9995101328680713;7.38155952221113e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Empty line should be followed by <p> tag on the next line.;14902;3;14899;1;0.9998053952489598;2.013152596967993e-05;0.6666666666666667;1.1102230246251565e-16;0.5166666666666666;0.04999999999999999;0.580952380952381;0.02857142857142854
+Top-level class BookmarkStack has to reside in its own source file.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'static' modifier out of order with the JLS suggestions.;14902;1;14901;1;0.9998926318614952;6.150282774063415e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Empty catch block.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'if' construct must use '{}'s.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'CTOR_DEF' should be separated from previous statement.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'else' construct must use '{}'s.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'for' construct must use '{}'s.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'protected' modifier out of order with the JLS suggestions.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Distance between variable declaration and its first usage is more than '3';14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Javadoc comment has parse error.;14902;3;14899;1;0.9993088176083746;9.975888301784803e-05;0.0;0.0;0.0;0.0;0.0;0.0
+GenericWhitespace '>' is followed by whitespace.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Local variable name must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Each variable declaration must be in its own statement.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Catch parameter name 'eMissingResource' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+'public' modifier out of order with the JLS suggestions.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Array brackets at illegal position.;14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+At-clauses have to appear in the order '[@param, @return, @throws, @deprecated]'.;14902;1;14901;1;0.9998322372835862;5.410185041133386e-05;0.0;0.0;0.0;0.0;0.0;0.0
+Parameter must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$';14902;0;14902;1;1.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Single-line Javadoc comment should be multi-line.;14902;4;14898;1;0.9999865789826868;2.684203462623991e-05;1.0;0.0;0.96;0.07999999999999999;0.9777777777777779;0.044444444444444425
+'METHOD_DEF' should be separated from previous statement.;14902;4;14898;1;0.9999664474567173;3.3552543282799885e-05;0.875;0.125;1.0;0.0;0.9285714285714286;0.07142857142857145
+Redundant <p> tag.;14902;1;14901;1;0.9998121057576166;2.6842034626239906e-05;0.0;0.0;0.0;0.0;0.0;0.0
