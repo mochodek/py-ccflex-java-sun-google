@@ -1,0 +1,16 @@
+{
+  "manual_string_counting_features": [
+    {
+      "name": "get",
+      "string": ["get"]
+    }
+  ],
+  "manual_whole_word_counting_features": [
+    {
+      "name": "header_comment",
+      "string": ["Copyrights", "Author"]
+    }
+  ]
+}
+
+

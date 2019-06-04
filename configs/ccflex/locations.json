@@ -1,0 +1,39 @@
+{
+  "train": {
+    "baseline_dir": "../codebase",
+    "locations": [
+      {
+        "path": "../codebase",
+        "include": [
+          ".+[.]java$"
+        ],
+        "exclude": []
+      }
+      
+    ]
+  },
+
+  "classify": {
+    "baseline_dir": "/Users/mochodek/git/open_dataset/",
+    "locations": [
+      {
+        "path": "/Users/mochodek/git/open_dataset/CANdevStudio",
+        "include": [
+          ".+[.]cpp$",
+          ".+[.]c$",
+          ".+[.]h$"
+        ],
+        "exclude": []
+      }
+    ]
+  },
+
+  "workspace_dir": {
+    "path": "C:\\Users\\user\\Research\\ccflex-workspace",
+    "erase": true
+  },
+
+  "rscript_executable_path": "/Library/Frameworks/R.framework/Versions/3.4/Resources/Rscript"
+}
+
+
