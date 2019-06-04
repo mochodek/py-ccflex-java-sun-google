@@ -1,6 +1,6 @@
 # Replication package - py-ccflex and Sun's and Google coding conventions
 
-This is a replication package for the paper "Recognizing Lines of Code Violating Company-Specific Coding Guidelines Using Machine Learning - A Method and Its Evaluation" submitted to Empirical Software Engineering Journal.
+This is a replication package for the paper "Recognizing Lines of Code Violating Company-Specific Coding Guidelines Using Machine Learning - A Method and Its Evaluation" submitted to the Empirical Software Engineering journal.
 
 It contains the results and inputs for the analysis of applying py-ccflex to identify lines violating Sun's and Google's coding conventions in the source code of three Java-based products:
 - Eclipse Platform
